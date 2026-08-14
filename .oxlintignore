@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+**/node_modules
+
+# Build & Output Folders
+dist
+**/dist
+build
+**/build
+.next
+**/.next
+
+# Tooling & Caches
+.turbo
+**/.turbo
+.vite
+**/.vite
+.cache
+**/.cache
+
+# Generated/Lock Files
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
